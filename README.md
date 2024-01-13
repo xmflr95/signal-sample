@@ -14,3 +14,6 @@ react 에서 주로 사용하는 상태관리가 아닌 단순 값의 변화를 
 - index.html
 - index.js
 - signal.js (Class 선언)
+
+## 실행
+vscode 혹은 웹 서버에서 index.html 을 실행 (module을 사용하기 떄문에 단순 브라우저 오픈은 안됨)
